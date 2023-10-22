@@ -1,5 +1,5 @@
 # flutter-app
-#SoftwRE REQUIE=REMNTS
-    flutter
-    html
-    css
+Software Requirements
+HTML
+CSS
+Flutter
