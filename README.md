@@ -9,4 +9,4 @@
 2.  mainly for online consultation and medicine ordering
 3.  inbuilt to do list
 
-![Block Diagram](https://i.imgur.com/uV6oYkP.png)
+![Block Diagram]()
