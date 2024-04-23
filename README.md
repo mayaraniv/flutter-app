@@ -35,9 +35,9 @@ Implement functionality for users to upload and share their own recipes within t
 In summary, RecipeRaven offers a comprehensive recipe management solution from a technical perspective. Leveraging modern technologies like React, Node.js, MongoDB, and JSON Web Tokens, RecipeRaven ensures scalability, security, and seamless user experience. With features such as dynamic presentation mode, voice-based assistance, and smart sorting, RecipeRaven sets a new standard in recipe management systems, catering to the needs of culinary enthusiasts with efficiency and innovation.
 
 ## References
-https://developer.mozilla.org/en-US/
- https://youtu.be/f55qeKGgB_M?si=LmOkdZXTaMppBqGM
- https://youtu.be/Ez8F0nW6S-w?si=tDRJKQ9zyvEwJed4
-https://youtu.be/b9WlsQMGWMQ?si=hAENw_tzy1el3LKJ
+- https://developer.mozilla.org/en-US/
+- https://youtu.be/f55qeKGgB_M?si=LmOkdZXTaMppBqGM
+- https://youtu.be/Ez8F0nW6S-w?si=tDRJKQ9zyvEwJed4
+- https://youtu.be/b9WlsQMGWMQ?si=hAENw_tzy1el3LKJ
 
 
