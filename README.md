@@ -7,7 +7,7 @@ In this project, we aim to solve various challenges prevalent in the culinary do
  
 ## Features
 ### Share Recipe
-Implement functionality for users to upload and share their own recipes within the community
+- Implement functionality for users to upload and share their own recipes within the community
 ### Dynamic Presentation Mode
 - Introduce an innovative step-by-step card presentation mode, which provide instructions step by step for users to follow along. The system integrates timers for time-sensitive steps.
 ### Smart Sorting and Filtering
