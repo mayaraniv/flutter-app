@@ -37,7 +37,6 @@ In summary, RecipeRaven offers a comprehensive recipe management solution from a
 ## References
 - https://developer.mozilla.org/en-US/
 - https://youtu.be/f55qeKGgB_M?si=LmOkdZXTaMppBqGM
-- https://youtu.be/Ez8F0nW6S-w?si=tDRJKQ9zyvEwJed4
 - https://youtu.be/b9WlsQMGWMQ?si=hAENw_tzy1el3LKJ
 
 
