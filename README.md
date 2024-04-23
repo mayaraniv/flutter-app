@@ -7,17 +7,17 @@ In this project, we aim to solve various challenges prevalent in the culinary do
 
 ## Features 
 ### Share Recipe
-- Implement functionality for users to upload and share their own recipes within the community
+- Implement functionality for users to upload and share their own recipes within the community.
 ### Dynamic Presentation Mode
 - Introduce an innovative step-by-step card presentation mode, which provide instructions step by step for users to follow along. The system integrates timers for time-sensitive steps.
 ### Smart Sorting and Filtering
 - Sort as well as filter recipes based on various parameters such as location of upload, food location, preparation time, cuisine type, meal category, caloric content, specific ingredients, and tags.
 ### Voice-Based Assistance
 - Implement voice commands for recipe search as well as enabling users to receive spoken instructions and information while cooking, enhancing accessibility.
-### Personal Cookbook
-- Allows users to create a personal cookbook, organising and tracking their favourite recipes privately without sharing them publicly.
 ### User Interaction and Engagement
 - Foster a sense of community by enabling users to like, comment, and rate recipes. Additionally, users can follow their favourite chefs.
+### Personal Cookbook
+- Allows users to create a personal cookbook, organising and tracking their favourite recipes privately without sharing them publicly.
 ### Top Recipes
 - Implement a feature which displays the top recipes of the day, the most liked ones, etc.
 ### Bookmark and Save
