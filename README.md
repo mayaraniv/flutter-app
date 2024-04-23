@@ -1,3 +1,4 @@
+# RecipeRaven: A Recipe Management System
 ## Aim
 RecipeRaven aims to develop a comprehensive recipe sharing platform where users can discover, share, and cook delicious recipes from around the world. With a focus on community engagement and culinary exploration, RecipeRaven offers a variety of features to enhance the cooking experience for users of all skill levels.
 
