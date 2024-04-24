@@ -31,7 +31,7 @@ In this project, we aim to solve various challenges prevalent in the culinary do
 ## Conclusion
 In summary, RecipeRaven offers a comprehensive recipe management solution from a technical perspective. Leveraging modern technologies like React, Node.js, MongoDB, and JSON Web Tokens, RecipeRaven ensures scalability, security, and seamless user experience. With features such as dynamic presentation mode, voice-based assistance, and smart sorting, RecipeRaven sets a new standard in recipe management systems, catering to the needs of culinary enthusiasts with efficiency and innovation.
 
- ## Installation
+## Installation
 1.	Clone the repository: git clone <repository-url>
 2.	Navigate to the project directory
 3.	Install dependencies: npm install
