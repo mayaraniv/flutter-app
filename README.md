@@ -28,7 +28,7 @@ In this project, we aim to solve various challenges prevalent in the culinary do
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
 
-##Installation
+## Installation
 1.	Clone the repository: git clone <repository-url>
 2.	Navigate to the project directory
 3.	Install dependencies: npm install
