@@ -28,21 +28,15 @@ In this project, we aim to solve various challenges prevalent in the culinary do
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
 
-## Installation
+## Conclusion
+In summary, RecipeRaven offers a comprehensive recipe management solution from a technical perspective. Leveraging modern technologies like React, Node.js, MongoDB, and JSON Web Tokens, RecipeRaven ensures scalability, security, and seamless user experience. With features such as dynamic presentation mode, voice-based assistance, and smart sorting, RecipeRaven sets a new standard in recipe management systems, catering to the needs of culinary enthusiasts with efficiency and innovation.
+
+ ## Installation
 1.	Clone the repository: git clone <repository-url>
 2.	Navigate to the project directory
 3.	Install dependencies: npm install
 4.	Set up environment variables (database connection URI, JWT secret, etc.).
 5.	Run the application: npm start
-
-## Conclusion
-In summary, RecipeRaven offers a comprehensive recipe management solution from a technical perspective. Leveraging modern technologies like React, Node.js, MongoDB, and JSON Web Tokens, RecipeRaven ensures scalability, security, and seamless user experience. With features such as dynamic presentation mode, voice-based assistance, and smart sorting, RecipeRaven sets a new standard in recipe management systems, catering to the needs of culinary enthusiasts with efficiency and innovation.
-
- 
-## References
-- https://developer.mozilla.org/en-US/
-- https://youtu.be/f55qeKGgB_M?si=LmOkdZXTaMppBqGM
-- https://youtu.be/b9WlsQMGWMQ?si=hAENw_tzy1el3LKJ
 
 
 
