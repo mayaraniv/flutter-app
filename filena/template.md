@@ -23,8 +23,10 @@ The key might not be readily apparent. Explore every corner.
 1. The message displayed on the website hints that the flag is hidden from virtual wanderers or automated bots.
 
 2. The flag is hidden within the seemingly disallowed path: /theflag.html. Upon inspection of robots.txt file (append /robots.txt to the website's URL) one can find the directive:
-````User-agent: *
-Disallow: /flag.html````
+````
+User-agent: *
+Disallow: /flag.html
+````
 
 This suggests that /theflag.html is hidden from web crawlers.
 
