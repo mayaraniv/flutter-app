@@ -39,7 +39,7 @@ https://puzzled-expedition.netlify.app/
     }
   }
 ```
-3. Upon user input, a substring of the user entered password undergoes a reverse operation from index 6 to 16.
+3. Upon user input, a substring of the password entered by the user undergoes a reverse operation from index 6 to 16.
 4. These modified user input is divided into substrings and are compared against preset strings in Unicode format.
 5. From these comparisons, find the password which is compared against the reversed user input.
 6. Reversing the required substring of this obtained password will reveal the correct password which is to be entered by the user, which also serves as the flag.
